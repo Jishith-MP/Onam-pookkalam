@@ -1,0 +1,1 @@
+Pookkalam is my winning project from the Upcode Pookkalam Challenge 2024, celebrated during Onam. I created a web application that embodies the cultural essence of Pookkalam, showcasing my frontend development skills in HTML, CSS, and JavaScript. The project highlights creativity, responsiveness, and user engagement.
